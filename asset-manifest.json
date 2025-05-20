@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_Crypto_Currency_Routing_NXT_CS24/static/css/main.177fdbba.css",
+    "main.js": "/React_Crypto_Currency_Routing_NXT_CS24/static/js/main.5efa36c5.js",
+    "static/js/453.21017911.chunk.js": "/React_Crypto_Currency_Routing_NXT_CS24/static/js/453.21017911.chunk.js",
+    "index.html": "/React_Crypto_Currency_Routing_NXT_CS24/index.html",
+    "main.177fdbba.css.map": "/React_Crypto_Currency_Routing_NXT_CS24/static/css/main.177fdbba.css.map",
+    "main.5efa36c5.js.map": "/React_Crypto_Currency_Routing_NXT_CS24/static/js/main.5efa36c5.js.map",
+    "453.21017911.chunk.js.map": "/React_Crypto_Currency_Routing_NXT_CS24/static/js/453.21017911.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.177fdbba.css",
+    "static/js/main.5efa36c5.js"
+  ]
+}
