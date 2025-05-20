@@ -8,7 +8,7 @@
     API : https://apis.ccbp.in/crypto-currency-converter
     - componentDidMount() 
     - key Features : Fetching Data from APIS, Seting Timiers, Add event Listeners
-    - **Code**
+    **Code**
     state ={updated:[],isLoader:true}
     componentDidMount(){
         this.getCryptoData()
