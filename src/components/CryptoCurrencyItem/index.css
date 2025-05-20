@@ -1,0 +1,21 @@
+.logoName{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.logoName img{
+    width: 30px;
+    height: 30px;
+   
+}
+.values{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.table{
+    display: flex;
+    margin: 0px 120px;
+    color: #ffffff;
+    justify-content: space-between;
+}
