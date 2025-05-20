@@ -9,6 +9,15 @@
     - componentDidMount() 
     - key Features : Fetching Data from APIS, Seting Timiers, Add event Listeners
     - **Code**
+    state ={updated:[],isLoader:true}
+    componentDidMount(){
+        this.getCryptoData()
+    }
+    getCryptoData=async()=>{
+        const response = await fetch('https://apis.ccbp.in/crypto-currency-converter')
+        const data = await response.json()
+        this.setState({updated:data,isLoader:false})
+    }
         
 
 
