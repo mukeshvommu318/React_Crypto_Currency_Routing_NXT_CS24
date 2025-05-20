@@ -22,7 +22,10 @@
 ## Note :
 -> We make Api Calls from "componentDidMount() method"
 
-
+## Added the Loader
+-> When the data is featching on mean time, the loader get Displayed
+-> In react v19 Did not added  "react-loader-spinner" Library 
+-> I have used CSS custom loader, means created component for Loader(index.js,index.css)
 
 
 
