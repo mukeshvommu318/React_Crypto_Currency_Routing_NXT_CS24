@@ -19,7 +19,8 @@
         this.setState({updated:data,isLoader:false})
     }
         
-
+## Note :
+-> We make Api Calls from "componentDidMount() method"
 
 
 
