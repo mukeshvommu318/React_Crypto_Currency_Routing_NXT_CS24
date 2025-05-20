@@ -4,10 +4,12 @@
 
 ## Learnings
 -> **How to get the Data from APIs**
+
     API : https://apis.ccbp.in/crypto-currency-converter
-    - componentDidMount() in a React class component is to perform side effects after the component has been rendered to the DOM.
-          key Features : Fetching Data from APIS, Seting Timiers, Add event Listeners
-          **Code**
+    - componentDidMount() 
+    - key Features : Fetching Data from APIS, Seting Timiers, Add event Listeners
+    - **Code**
+        
 
 
 
